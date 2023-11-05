@@ -2,7 +2,7 @@
 
 That's my actual setup:
 
-![Screenshot]('./screen.png' "Main window screenshot")
+![Screenshot](screen.png "Main window screenshot")
 
 DE: [Hyprland](https://hyprland.org/)
 
